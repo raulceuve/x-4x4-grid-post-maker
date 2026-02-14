@@ -10,7 +10,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-%239C27B0?logo=pillow)](https://python-pillow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+[![GitHub stars](https://img.shields.io/github/stars/psychonaut-textE/x-4x4-grid-post-maker?style=social)](https://github.com/psychonaut-text/x-4x4-grid-post-maker)
 
 </div>
 
