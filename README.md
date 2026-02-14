@@ -38,14 +38,17 @@ Perfect for reaction faces, progress pics, "expectation vs reality", jumpscares,
    ```bash
    pip install pillow
    
-3. Double Click cut4.py and enjoy.
-4. In linux you are going to need to give it run permisions. First get to the directory using cd, in this case is in Download.
+3. Download cut4.py from up there.
+
+4. Double Click cut4.py and enjoy.
+
+5. In linux you are going to need to give it run permisions. First get to the directory using cd, in this case is in Download.
 
    ```bash
    cd Download/
    chmod +x cut4.py
    
-8. In some cases you might need to run the script with the console using. First get to the directory using cd, in this case is in Download.
+6. In some cases you might need to run the script with the console using. First get to the directory using cd, in this case is in Download.
 
     ```bash
    cd Download/
