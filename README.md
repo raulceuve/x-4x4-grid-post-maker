@@ -26,7 +26,7 @@ Perfect for reaction faces, progress pics, "expectation vs reality", jumpscares,
 - **Optional square crop mode** — fixes ugly timeline previews on tall images
 - Saves the 4 parts **right next to your original file**
 - Shows exact upload order (1→2→3→4)
-
+- It's RECOMMENDED that you use a portrait image, with dimensions like 500x300 or variations that use the same ratio. You can get creative here.
 ### 🚀 Installation (30 seconds)
 
 1. Make sure you have **Python 3.8+**  
