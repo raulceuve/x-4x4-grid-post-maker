@@ -16,9 +16,6 @@
 
 <br>
 
-https://github.com/user-attachments/assets/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX  
-*(replace with your own short demo GIF — record yourself selecting an image → getting 4 parts → uploading to X)*
-
 ### Why people love this format on X
 One image → split into 4 → upload in order → people swipe and get hit with the full cursed picture.  
 Perfect for reaction faces, progress pics, "expectation vs reality", jumpscares, etc.
@@ -40,3 +37,16 @@ Perfect for reaction faces, progress pics, "expectation vs reality", jumpscares,
 
    ```bash
    pip install pillow
+   
+3. Double Click cut4.py and enjoy.
+4. In linux you are going to need to give it run permisions. First get to the directory using cd, in this case is in Download.
+
+   ```bash
+   cd Download/
+   chmod +x cut4.py
+   
+8. In some cases you might need to run the script with the console using. First get to the directory using cd, in this case is in Download.
+
+    ```bash
+   cd Download/
+   python3 cut4.py
